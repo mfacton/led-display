@@ -1,0 +1,154 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "75183145-e70b-4d6c-86dd-7e6a23b93e96")
+	(paper "A5")
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 137.16 48.26) (xy 137.16 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "932d1d8b-2a06-45a6-bc4f-4926e962e32a")
+	)
+	(wire
+		(pts
+			(xy 137.16 40.64) (xy 134.62 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a3904bd6-9bc9-4d52-afeb-ed5799ef7009")
+	)
+	(wire
+		(pts
+			(xy 96.52 40.64) (xy 99.06 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c2cad50f-f533-40a9-8681-40d8c1fc35f9")
+	)
+	(wire
+		(pts
+			(xy 99.06 48.26) (xy 137.16 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d8068249-aeac-4d3f-9f58-082368d9ae8d")
+	)
+	(wire
+		(pts
+			(xy 99.06 40.64) (xy 99.06 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe412b74-516d-447b-ab66-2146480b3fbc")
+	)
+	(sheet
+		(at 114.3 19.05)
+		(size 22.86 7.62)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4ffb8c99-e2cb-41aa-b020-6c5fc60c2783")
+		(property "Sheetname" "Register1"
+			(at 114.3 18.3384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "register.kicad_sch"
+			(at 114.3 27.2546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "led-display"
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/382363ff-50c7-441a-aafd-5f15ada33b28"
+					(page "12")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 76.2 38.1)
+		(size 20.32 5.08)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "514c2772-fb54-43ed-9369-3d264518a003")
+		(property "Sheetname" "Group1"
+			(at 76.2 37.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "group.kicad_sch"
+			(at 76.2 43.7646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "A[0..7]" input
+			(at 76.2 40.64 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "0a0bb2bd-98c1-43ce-a5b1-0329cdf0f342")
+		)
+		(pin "K" input
+			(at 96.52 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "d830bdb0-9f6d-4ac9-a63b-efe2c24efdfb")
+		)
+		(instances
+			(project "led-display"
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/382363ff-50c7-441a-aafd-5f15ada33b28"
+					(page "3")
+				)
+			)
+		)
+	)
+)

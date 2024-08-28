@@ -1,0 +1,1663 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "f79d38f9-9711-4e41-b80f-722e420eaa3e")
+	(paper "A4")
+	(lib_symbols)
+	(junction
+		(at 101.6 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "16630f89-d841-4b66-aeb8-dd6ffe7b5987")
+	)
+	(junction
+		(at 101.6 96.52)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "346dffc5-48ae-4121-a867-7772cb98d5f9")
+	)
+	(junction
+		(at 101.6 58.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "40d678fb-2cf6-4e46-b568-4367b591467b")
+	)
+	(junction
+		(at 101.6 121.92)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4b0c6468-53b1-4ea0-b28a-ae4fe68c1f2e")
+	)
+	(junction
+		(at 101.6 109.22)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8178afc6-8af2-4404-9e95-c9aa37203420")
+	)
+	(junction
+		(at 101.6 71.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "81bd2ec3-9c46-4e51-b0d3-6aa2c7819741")
+	)
+	(junction
+		(at 101.6 45.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b1978ca9-6388-4f09-bc8a-da26df096696")
+	)
+	(bus_entry
+		(at 129.54 134.62)
+		(size 2.54 -2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "11778279-9c70-45fe-b284-cb6f82475c60")
+	)
+	(bus_entry
+		(at 129.54 45.72)
+		(size 2.54 -2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "24e9b066-7774-49b6-a208-3bf7c51c30e5")
+	)
+	(bus_entry
+		(at 129.54 71.12)
+		(size 2.54 -2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "35812b06-9f85-4d63-b1e7-37d701d1a17c")
+	)
+	(bus_entry
+		(at 129.54 109.22)
+		(size 2.54 -2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "67f36744-03b7-422f-9c52-b4cece322197")
+	)
+	(bus_entry
+		(at 129.54 58.42)
+		(size 2.54 -2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "802ec604-595e-47f3-9b34-a6c717cc8577")
+	)
+	(bus_entry
+		(at 129.54 83.82)
+		(size 2.54 -2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "acfa8970-1cfe-4d53-9a8d-f2dab15e0c70")
+	)
+	(bus_entry
+		(at 129.54 121.92)
+		(size 2.54 -2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c3f84b76-190a-4220-b224-6e4e4c9935a6")
+	)
+	(bus_entry
+		(at 129.54 96.52)
+		(size 2.54 -2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c7a8a51b-cfeb-4837-809d-1c7ba633b580")
+	)
+	(bus
+		(pts
+			(xy 132.08 43.18) (xy 132.08 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "041bee32-35c4-4ea0-bff1-fc40942d7d28")
+	)
+	(bus
+		(pts
+			(xy 101.6 121.92) (xy 101.6 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "04773180-8ae2-4661-8de6-0b429b5f1c79")
+	)
+	(bus
+		(pts
+			(xy 101.6 71.12) (xy 101.6 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a869a92-6817-4d94-b414-b0f7f9a99785")
+	)
+	(bus
+		(pts
+			(xy 132.08 40.64) (xy 142.24 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2bd5eede-6c5e-4931-a975-f86b48f454a9")
+	)
+	(wire
+		(pts
+			(xy 58.42 45.72) (xy 63.5 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2e27668e-bdf4-41d3-847a-732a5c1f0871")
+	)
+	(bus
+		(pts
+			(xy 101.6 96.52) (xy 104.14 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34a5fd9d-f80b-4231-899a-50a61fb93842")
+	)
+	(bus
+		(pts
+			(xy 132.08 93.98) (xy 132.08 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "400fa547-52d5-415a-b828-4fc6fa95d01d")
+	)
+	(bus
+		(pts
+			(xy 132.08 81.28) (xy 132.08 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "40966ff7-2175-4f0b-ac58-3d7c11ea74e0")
+	)
+	(wire
+		(pts
+			(xy 124.46 121.92) (xy 129.54 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "465f09fc-cd25-4f69-ac68-d1f08d3e2dbc")
+	)
+	(wire
+		(pts
+			(xy 86.36 50.8) (xy 91.44 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "469de00e-6885-4569-84a3-48c0e44474b7")
+	)
+	(bus
+		(pts
+			(xy 101.6 45.72) (xy 104.14 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "590fb567-b674-4d93-ad10-9f14fc6f66c5")
+	)
+	(wire
+		(pts
+			(xy 124.46 58.42) (xy 129.54 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "66249e4f-df16-4ab2-9517-0759d86581d2")
+	)
+	(bus
+		(pts
+			(xy 101.6 83.82) (xy 101.6 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "68f426a4-fb07-4cca-ad30-e8f5c5305c27")
+	)
+	(wire
+		(pts
+			(xy 124.46 71.12) (xy 129.54 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6f0a9849-6c69-45cd-a588-8d127a6bb87d")
+	)
+	(wire
+		(pts
+			(xy 124.46 134.62) (xy 129.54 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7125c202-a9dc-4de7-a873-86202fd2a3e6")
+	)
+	(bus
+		(pts
+			(xy 101.6 96.52) (xy 101.6 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7ce76289-a5b6-4960-b105-2cf4fe14c8c8")
+	)
+	(bus
+		(pts
+			(xy 101.6 109.22) (xy 104.14 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7f28b8e1-d5ef-44f2-a534-b52f76409e45")
+	)
+	(wire
+		(pts
+			(xy 58.42 50.8) (xy 63.5 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "806b6dbd-f420-402b-aae6-10ec75481aa0")
+	)
+	(bus
+		(pts
+			(xy 132.08 68.58) (xy 132.08 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "85b60dad-4e97-4dc5-ba84-f2d64ce29eb2")
+	)
+	(bus
+		(pts
+			(xy 101.6 58.42) (xy 104.14 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "884a3bda-5808-4323-b4fa-0e5df5763010")
+	)
+	(bus
+		(pts
+			(xy 101.6 71.12) (xy 104.14 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "93170447-3454-4cfa-ab15-665a4eb63190")
+	)
+	(bus
+		(pts
+			(xy 101.6 58.42) (xy 101.6 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9365ddc9-163e-4949-b2ce-f457e814f64e")
+	)
+	(bus
+		(pts
+			(xy 101.6 83.82) (xy 104.14 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c85143c-9e51-47e1-9dee-c1aaf006eda5")
+	)
+	(bus
+		(pts
+			(xy 132.08 43.18) (xy 132.08 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a0c03853-ce55-40bf-bd8b-e358172349ba")
+	)
+	(bus
+		(pts
+			(xy 132.08 119.38) (xy 132.08 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1536f08-9577-439e-9fdb-97db5f1aab1e")
+	)
+	(bus
+		(pts
+			(xy 132.08 55.88) (xy 132.08 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a27fd28c-a2c3-41cd-86a9-7ab76871fca9")
+	)
+	(wire
+		(pts
+			(xy 58.42 48.26) (xy 63.5 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aaeb6a7c-9aa5-4441-ad47-ee988e9499b9")
+	)
+	(wire
+		(pts
+			(xy 124.46 83.82) (xy 129.54 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bbd53bb6-0ba0-4171-bd6f-98345e23a2e0")
+	)
+	(wire
+		(pts
+			(xy 124.46 45.72) (xy 129.54 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c0be3a87-b6a9-4e61-af79-f599f53c5b0d")
+	)
+	(bus
+		(pts
+			(xy 132.08 106.68) (xy 132.08 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c1f86d0d-8c26-4ff4-b568-452f9f0f56e6")
+	)
+	(bus
+		(pts
+			(xy 101.6 134.62) (xy 104.14 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c9bf1c2d-43b9-4847-9e6a-8b3267e025f2")
+	)
+	(wire
+		(pts
+			(xy 124.46 109.22) (xy 129.54 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cdf82801-d9e6-46d9-89b6-1373e2818d28")
+	)
+	(bus
+		(pts
+			(xy 101.6 121.92) (xy 101.6 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e00fcb4e-2918-48b0-a2ea-ac642fefad47")
+	)
+	(bus
+		(pts
+			(xy 86.36 45.72) (xy 101.6 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e7093af5-7833-418e-a63f-3c8e0e5ba50b")
+	)
+	(wire
+		(pts
+			(xy 124.46 96.52) (xy 129.54 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f692e351-5f70-4a5e-b540-dde86666d1b4")
+	)
+	(bus
+		(pts
+			(xy 104.14 121.92) (xy 101.6 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f9fad767-480b-4520-8317-187f43ef5525")
+	)
+	(bus
+		(pts
+			(xy 101.6 109.22) (xy 101.6 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fb6df8b9-1d6f-41ee-8d11-b7abdd9641e8")
+	)
+	(label "IN"
+		(at 59.69 48.26 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "06f93890-9c05-4252-9bb3-fbef2f0c64bd")
+	)
+	(label "K4"
+		(at 125.73 96.52 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1aa13b7f-97d7-44a5-8c1e-24ddd7a27174")
+	)
+	(label "K3"
+		(at 125.73 83.82 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "30169f58-b147-486c-bbd0-43a3f6279a33")
+	)
+	(label "K5"
+		(at 125.73 109.22 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3e2e165b-2125-4105-a55b-1113c9089e67")
+	)
+	(label "K1"
+		(at 125.73 58.42 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "65852440-a502-4481-aa3f-e8b436725c46")
+	)
+	(label "LD"
+		(at 59.69 50.8 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "696439e5-4aea-4f31-9c45-013ee6ddcfe1")
+	)
+	(label "CLK"
+		(at 58.42 45.72 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "97811b50-42ba-4c5b-b317-339443cb57cb")
+	)
+	(label "K[0..7]"
+		(at 133.35 40.64 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ab31f57b-498f-4133-a3af-612ce87e5302")
+	)
+	(label "K7"
+		(at 125.73 134.62 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b0887e3f-2ecc-4df3-a031-c69b6d021e1a")
+	)
+	(label "K6"
+		(at 125.73 121.92 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b61d32c0-0d54-4510-99a5-73a6bc6a3fcc")
+	)
+	(label "K0"
+		(at 125.73 45.72 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "cd1d15b8-34e1-4f5c-b233-d0d9602759fd")
+	)
+	(label "K2"
+		(at 125.73 71.12 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ebd82184-f269-4e2f-85c3-20910c5db051")
+	)
+	(label "A[0..7]"
+		(at 96.52 45.72 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ed793dbd-48c8-4c33-bf1b-faf6cc8dcdc0")
+	)
+	(label "OUT"
+		(at 87.63 50.8 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fea08ae6-b50b-4d56-946f-0182679b9047")
+	)
+	(hierarchical_label "OUT"
+		(shape output)
+		(at 91.44 50.8 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "06ec84df-1e49-4df2-a46a-60e6a70146f0")
+	)
+	(hierarchical_label "IN"
+		(shape input)
+		(at 58.42 48.26 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4dedbef5-f2c5-4717-9cdc-9ad3ebf3e404")
+	)
+	(hierarchical_label "CLK"
+		(shape input)
+		(at 58.42 45.72 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "96409cf6-cc24-46a4-b08a-e53de285867e")
+	)
+	(hierarchical_label "K[0..7]"
+		(shape input)
+		(at 142.24 40.64 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c72b9f64-ba25-4775-9f99-4f6e411276fc")
+	)
+	(hierarchical_label "LD"
+		(shape input)
+		(at 58.42 50.8 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "de8a596d-b678-45dd-a693-15175d1b4a44")
+	)
+	(sheet
+		(at 104.14 55.88)
+		(size 20.32 5.08)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "08a74aa3-2483-4b72-b1a5-d5a16c0009f0")
+		(property "Sheetname" "Group1"
+			(at 104.14 55.1684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "group.kicad_sch"
+			(at 104.14 61.5446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "A[0..7]" input
+			(at 104.14 58.42 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "80b8a61a-b787-418d-973c-47e7cc67ca96")
+		)
+		(pin "K" input
+			(at 124.46 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "b6d6eda4-760b-47f1-8e49-a1b0e1b180f6")
+		)
+		(instances
+			(project "led-display"
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/a6726b4b-c980-4fa5-b411-59c2a05280ea"
+					(page "5")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/b39727d4-516c-47a8-bb76-9ff293b0382e"
+					(page "15")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/7d398bf3-d589-449c-8ace-0fc248aa8aad"
+					(page "25")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/4d7dc1a6-b351-4f65-8aef-a7839bb0ee3f"
+					(page "35")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/eaf29041-4bf8-4b91-9273-80e05423798b"
+					(page "45")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/17199750-5784-4728-bd2d-81aaeb27888e"
+					(page "55")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/efad9cd9-62cb-452b-940c-6a9f151332d4"
+					(page "65")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/a53b6c60-400e-449c-a892-6fe41104bd53"
+					(page "75")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/be9dd075-07f8-46fe-b693-dc70346822e6"
+					(page "85")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/9d354d0c-17ee-434c-a70e-9bad5ceb5347"
+					(page "95")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/aa772071-f868-41ef-82cb-2d20a0bb8575"
+					(page "105")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/e9aa3a3f-9a91-43a8-afc5-e720b906dbc8"
+					(page "115")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/47821982-a7d9-47b4-b927-43ee5b21c8a3"
+					(page "125")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/2cb6bc71-1a18-4c24-bf1a-b7b69aecbf4c"
+					(page "135")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/9bc2e04e-cceb-4ead-be3f-01d7b6587d28"
+					(page "145")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/fad92e88-bcf9-47e3-8b16-5815fd14eeee"
+					(page "155")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 104.14 119.38)
+		(size 20.32 5.08)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "26febd36-4e09-455f-98a5-910ab652bf41")
+		(property "Sheetname" "Group6"
+			(at 104.14 118.6684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "group.kicad_sch"
+			(at 104.14 125.0446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "A[0..7]" input
+			(at 104.14 121.92 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "2326b8dd-7ada-45a7-a28c-bd830e7d7cca")
+		)
+		(pin "K" input
+			(at 124.46 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "a763fa4e-9f20-439e-94c3-2eec2a8798db")
+		)
+		(instances
+			(project "led-display"
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/a6726b4b-c980-4fa5-b411-59c2a05280ea"
+					(page "8")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/b39727d4-516c-47a8-bb76-9ff293b0382e"
+					(page "18")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/7d398bf3-d589-449c-8ace-0fc248aa8aad"
+					(page "28")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/4d7dc1a6-b351-4f65-8aef-a7839bb0ee3f"
+					(page "38")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/eaf29041-4bf8-4b91-9273-80e05423798b"
+					(page "48")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/17199750-5784-4728-bd2d-81aaeb27888e"
+					(page "58")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/efad9cd9-62cb-452b-940c-6a9f151332d4"
+					(page "68")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/a53b6c60-400e-449c-a892-6fe41104bd53"
+					(page "78")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/be9dd075-07f8-46fe-b693-dc70346822e6"
+					(page "88")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/9d354d0c-17ee-434c-a70e-9bad5ceb5347"
+					(page "98")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/aa772071-f868-41ef-82cb-2d20a0bb8575"
+					(page "108")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/e9aa3a3f-9a91-43a8-afc5-e720b906dbc8"
+					(page "118")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/47821982-a7d9-47b4-b927-43ee5b21c8a3"
+					(page "128")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/2cb6bc71-1a18-4c24-bf1a-b7b69aecbf4c"
+					(page "138")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/9bc2e04e-cceb-4ead-be3f-01d7b6587d28"
+					(page "148")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/fad92e88-bcf9-47e3-8b16-5815fd14eeee"
+					(page "158")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 104.14 68.58)
+		(size 20.32 5.08)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6b1d6236-b091-4480-be88-43da8df282bc")
+		(property "Sheetname" "Group2"
+			(at 104.14 67.8684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "group.kicad_sch"
+			(at 104.14 74.2446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "A[0..7]" input
+			(at 104.14 71.12 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "b9bda0bf-624d-4b35-90bd-597d98c4fb59")
+		)
+		(pin "K" input
+			(at 124.46 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "c0d48380-fe24-4d35-a019-4f9b092f9664")
+		)
+		(instances
+			(project "led-display"
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/a6726b4b-c980-4fa5-b411-59c2a05280ea"
+					(page "3")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/b39727d4-516c-47a8-bb76-9ff293b0382e"
+					(page "13")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/7d398bf3-d589-449c-8ace-0fc248aa8aad"
+					(page "23")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/4d7dc1a6-b351-4f65-8aef-a7839bb0ee3f"
+					(page "33")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/eaf29041-4bf8-4b91-9273-80e05423798b"
+					(page "43")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/17199750-5784-4728-bd2d-81aaeb27888e"
+					(page "53")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/efad9cd9-62cb-452b-940c-6a9f151332d4"
+					(page "63")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/a53b6c60-400e-449c-a892-6fe41104bd53"
+					(page "73")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/be9dd075-07f8-46fe-b693-dc70346822e6"
+					(page "83")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/9d354d0c-17ee-434c-a70e-9bad5ceb5347"
+					(page "93")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/aa772071-f868-41ef-82cb-2d20a0bb8575"
+					(page "103")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/e9aa3a3f-9a91-43a8-afc5-e720b906dbc8"
+					(page "113")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/47821982-a7d9-47b4-b927-43ee5b21c8a3"
+					(page "123")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/2cb6bc71-1a18-4c24-bf1a-b7b69aecbf4c"
+					(page "133")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/9bc2e04e-cceb-4ead-be3f-01d7b6587d28"
+					(page "143")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/fad92e88-bcf9-47e3-8b16-5815fd14eeee"
+					(page "153")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 104.14 81.28)
+		(size 20.32 5.08)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "71b4e032-6103-485f-af31-a745538ccbeb")
+		(property "Sheetname" "Group3"
+			(at 104.14 80.5684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "group.kicad_sch"
+			(at 104.14 86.9446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "A[0..7]" input
+			(at 104.14 83.82 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "4e70afdd-6ac1-46d5-960c-57beac8f9f4b")
+		)
+		(pin "K" input
+			(at 124.46 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "0aa93e6e-df06-4a3b-a37e-accd66741ccd")
+		)
+		(instances
+			(project "led-display"
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/a6726b4b-c980-4fa5-b411-59c2a05280ea"
+					(page "11")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/b39727d4-516c-47a8-bb76-9ff293b0382e"
+					(page "21")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/7d398bf3-d589-449c-8ace-0fc248aa8aad"
+					(page "31")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/4d7dc1a6-b351-4f65-8aef-a7839bb0ee3f"
+					(page "41")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/eaf29041-4bf8-4b91-9273-80e05423798b"
+					(page "51")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/17199750-5784-4728-bd2d-81aaeb27888e"
+					(page "61")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/efad9cd9-62cb-452b-940c-6a9f151332d4"
+					(page "71")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/a53b6c60-400e-449c-a892-6fe41104bd53"
+					(page "81")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/be9dd075-07f8-46fe-b693-dc70346822e6"
+					(page "91")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/9d354d0c-17ee-434c-a70e-9bad5ceb5347"
+					(page "101")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/aa772071-f868-41ef-82cb-2d20a0bb8575"
+					(page "111")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/e9aa3a3f-9a91-43a8-afc5-e720b906dbc8"
+					(page "121")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/47821982-a7d9-47b4-b927-43ee5b21c8a3"
+					(page "131")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/2cb6bc71-1a18-4c24-bf1a-b7b69aecbf4c"
+					(page "141")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/9bc2e04e-cceb-4ead-be3f-01d7b6587d28"
+					(page "151")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/fad92e88-bcf9-47e3-8b16-5815fd14eeee"
+					(page "161")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 63.5 43.18)
+		(size 22.86 10.16)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "87b35d29-e274-4fe7-9461-1dc8643ec6be")
+		(property "Sheetname" "Register1"
+			(at 63.5 42.4684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "register.kicad_sch"
+			(at 63.5 53.9246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "Q[0..7]" input
+			(at 86.36 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "ef9f842f-81e3-48b6-b8d7-553dd5c034ee")
+		)
+		(pin "LD" input
+			(at 63.5 50.8 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "4ca94cf2-7faf-4041-8743-24835eb29dac")
+		)
+		(pin "IN" input
+			(at 63.5 48.26 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "d1426451-cad5-4969-8d1f-6e1659e2f114")
+		)
+		(pin "CLK" input
+			(at 63.5 45.72 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "f3feb429-ae95-476b-bc7e-355c5780e9f8")
+		)
+		(pin "OUT" output
+			(at 86.36 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "685c7768-8881-4ef4-bad7-778582cf5e38")
+		)
+		(instances
+			(project "led-display"
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/a6726b4b-c980-4fa5-b411-59c2a05280ea"
+					(page "6")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/b39727d4-516c-47a8-bb76-9ff293b0382e"
+					(page "16")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/7d398bf3-d589-449c-8ace-0fc248aa8aad"
+					(page "26")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/4d7dc1a6-b351-4f65-8aef-a7839bb0ee3f"
+					(page "36")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/eaf29041-4bf8-4b91-9273-80e05423798b"
+					(page "46")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/17199750-5784-4728-bd2d-81aaeb27888e"
+					(page "56")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/efad9cd9-62cb-452b-940c-6a9f151332d4"
+					(page "66")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/a53b6c60-400e-449c-a892-6fe41104bd53"
+					(page "76")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/be9dd075-07f8-46fe-b693-dc70346822e6"
+					(page "86")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/9d354d0c-17ee-434c-a70e-9bad5ceb5347"
+					(page "96")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/aa772071-f868-41ef-82cb-2d20a0bb8575"
+					(page "106")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/e9aa3a3f-9a91-43a8-afc5-e720b906dbc8"
+					(page "116")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/47821982-a7d9-47b4-b927-43ee5b21c8a3"
+					(page "126")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/2cb6bc71-1a18-4c24-bf1a-b7b69aecbf4c"
+					(page "136")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/9bc2e04e-cceb-4ead-be3f-01d7b6587d28"
+					(page "146")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/fad92e88-bcf9-47e3-8b16-5815fd14eeee"
+					(page "156")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 104.14 93.98)
+		(size 20.32 5.08)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "905804fb-2610-431d-a552-58b91dca9697")
+		(property "Sheetname" "Group4"
+			(at 104.14 93.2684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "group.kicad_sch"
+			(at 104.14 99.6446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "A[0..7]" input
+			(at 104.14 96.52 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "630a8f1c-ef66-4cfd-ba00-d7d0b5108c8c")
+		)
+		(pin "K" input
+			(at 124.46 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "cd80dfae-77f4-49f7-8c27-ab23ba117794")
+		)
+		(instances
+			(project "led-display"
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/a6726b4b-c980-4fa5-b411-59c2a05280ea"
+					(page "10")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/b39727d4-516c-47a8-bb76-9ff293b0382e"
+					(page "20")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/7d398bf3-d589-449c-8ace-0fc248aa8aad"
+					(page "30")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/4d7dc1a6-b351-4f65-8aef-a7839bb0ee3f"
+					(page "40")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/eaf29041-4bf8-4b91-9273-80e05423798b"
+					(page "50")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/17199750-5784-4728-bd2d-81aaeb27888e"
+					(page "60")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/efad9cd9-62cb-452b-940c-6a9f151332d4"
+					(page "70")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/a53b6c60-400e-449c-a892-6fe41104bd53"
+					(page "80")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/be9dd075-07f8-46fe-b693-dc70346822e6"
+					(page "90")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/9d354d0c-17ee-434c-a70e-9bad5ceb5347"
+					(page "100")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/aa772071-f868-41ef-82cb-2d20a0bb8575"
+					(page "110")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/e9aa3a3f-9a91-43a8-afc5-e720b906dbc8"
+					(page "120")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/47821982-a7d9-47b4-b927-43ee5b21c8a3"
+					(page "130")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/2cb6bc71-1a18-4c24-bf1a-b7b69aecbf4c"
+					(page "140")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/9bc2e04e-cceb-4ead-be3f-01d7b6587d28"
+					(page "150")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/fad92e88-bcf9-47e3-8b16-5815fd14eeee"
+					(page "160")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 104.14 106.68)
+		(size 20.32 5.08)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ce74b705-ff96-441c-85a6-024645055a11")
+		(property "Sheetname" "Group5"
+			(at 104.14 105.9684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "group.kicad_sch"
+			(at 104.14 112.3446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "A[0..7]" input
+			(at 104.14 109.22 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "e53067ba-705e-414b-b2bd-6d61c10735d6")
+		)
+		(pin "K" input
+			(at 124.46 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "90bd5383-ce8f-43f5-8dbf-b49c2d9e8fb8")
+		)
+		(instances
+			(project "led-display"
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/a6726b4b-c980-4fa5-b411-59c2a05280ea"
+					(page "7")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/b39727d4-516c-47a8-bb76-9ff293b0382e"
+					(page "17")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/7d398bf3-d589-449c-8ace-0fc248aa8aad"
+					(page "27")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/4d7dc1a6-b351-4f65-8aef-a7839bb0ee3f"
+					(page "37")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/eaf29041-4bf8-4b91-9273-80e05423798b"
+					(page "47")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/17199750-5784-4728-bd2d-81aaeb27888e"
+					(page "57")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/efad9cd9-62cb-452b-940c-6a9f151332d4"
+					(page "67")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/a53b6c60-400e-449c-a892-6fe41104bd53"
+					(page "77")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/be9dd075-07f8-46fe-b693-dc70346822e6"
+					(page "87")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/9d354d0c-17ee-434c-a70e-9bad5ceb5347"
+					(page "97")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/aa772071-f868-41ef-82cb-2d20a0bb8575"
+					(page "107")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/e9aa3a3f-9a91-43a8-afc5-e720b906dbc8"
+					(page "117")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/47821982-a7d9-47b4-b927-43ee5b21c8a3"
+					(page "127")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/2cb6bc71-1a18-4c24-bf1a-b7b69aecbf4c"
+					(page "137")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/9bc2e04e-cceb-4ead-be3f-01d7b6587d28"
+					(page "147")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/fad92e88-bcf9-47e3-8b16-5815fd14eeee"
+					(page "157")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 104.14 132.08)
+		(size 20.32 5.08)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d6a3d2df-5634-4780-bdf7-f22c90cf390b")
+		(property "Sheetname" "Group7"
+			(at 104.14 131.3684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "group.kicad_sch"
+			(at 104.14 137.7446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "A[0..7]" input
+			(at 104.14 134.62 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "2ee83ea6-662d-4fcc-9fd4-7c0becf65a6d")
+		)
+		(pin "K" input
+			(at 124.46 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "f829bb65-d785-4246-9083-796923c7a388")
+		)
+		(instances
+			(project "led-display"
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/a6726b4b-c980-4fa5-b411-59c2a05280ea"
+					(page "9")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/b39727d4-516c-47a8-bb76-9ff293b0382e"
+					(page "19")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/7d398bf3-d589-449c-8ace-0fc248aa8aad"
+					(page "29")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/4d7dc1a6-b351-4f65-8aef-a7839bb0ee3f"
+					(page "39")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/eaf29041-4bf8-4b91-9273-80e05423798b"
+					(page "49")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/17199750-5784-4728-bd2d-81aaeb27888e"
+					(page "59")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/efad9cd9-62cb-452b-940c-6a9f151332d4"
+					(page "69")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/a53b6c60-400e-449c-a892-6fe41104bd53"
+					(page "79")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/be9dd075-07f8-46fe-b693-dc70346822e6"
+					(page "89")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/9d354d0c-17ee-434c-a70e-9bad5ceb5347"
+					(page "99")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/aa772071-f868-41ef-82cb-2d20a0bb8575"
+					(page "109")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/e9aa3a3f-9a91-43a8-afc5-e720b906dbc8"
+					(page "119")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/47821982-a7d9-47b4-b927-43ee5b21c8a3"
+					(page "129")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/2cb6bc71-1a18-4c24-bf1a-b7b69aecbf4c"
+					(page "139")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/9bc2e04e-cceb-4ead-be3f-01d7b6587d28"
+					(page "149")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/fad92e88-bcf9-47e3-8b16-5815fd14eeee"
+					(page "159")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 104.14 43.18)
+		(size 20.32 5.08)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e2c4d703-6fea-4d34-a8d5-9b6001502a36")
+		(property "Sheetname" "Group0"
+			(at 104.14 42.4684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "group.kicad_sch"
+			(at 104.14 48.8446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "A[0..7]" input
+			(at 104.14 45.72 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "8df2d106-b73b-4d5d-bb75-bbaf834db2ab")
+		)
+		(pin "K" input
+			(at 124.46 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "750be112-31e8-4869-b078-0a05551a8ab3")
+		)
+		(instances
+			(project "led-display"
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/a6726b4b-c980-4fa5-b411-59c2a05280ea"
+					(page "4")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/b39727d4-516c-47a8-bb76-9ff293b0382e"
+					(page "14")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/7d398bf3-d589-449c-8ace-0fc248aa8aad"
+					(page "24")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/4d7dc1a6-b351-4f65-8aef-a7839bb0ee3f"
+					(page "34")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/eaf29041-4bf8-4b91-9273-80e05423798b"
+					(page "44")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/17199750-5784-4728-bd2d-81aaeb27888e"
+					(page "54")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/efad9cd9-62cb-452b-940c-6a9f151332d4"
+					(page "64")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/a53b6c60-400e-449c-a892-6fe41104bd53"
+					(page "74")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/be9dd075-07f8-46fe-b693-dc70346822e6"
+					(page "84")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/9d354d0c-17ee-434c-a70e-9bad5ceb5347"
+					(page "94")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/aa772071-f868-41ef-82cb-2d20a0bb8575"
+					(page "104")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/e9aa3a3f-9a91-43a8-afc5-e720b906dbc8"
+					(page "114")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/47821982-a7d9-47b4-b927-43ee5b21c8a3"
+					(page "124")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/2cb6bc71-1a18-4c24-bf1a-b7b69aecbf4c"
+					(page "134")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/9bc2e04e-cceb-4ead-be3f-01d7b6587d28"
+					(page "144")
+				)
+				(path "/b91428f0-b0b0-40b6-a29d-063fba957930/fad92e88-bcf9-47e3-8b16-5815fd14eeee"
+					(page "154")
+				)
+			)
+		)
+	)
+)
